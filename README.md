@@ -1,1 +1,1 @@
-Chat Bot
+Just console Chat Bot and some interesting solved problems.
